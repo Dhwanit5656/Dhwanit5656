@@ -122,5 +122,5 @@ AI-powered resume analyzer that compares resumes against job descriptions, gener
 </p>
 
 <p align="center">
-  <i>📍 Ahmedabad, India &nbsp;|&nbsp; 📧 dhwanitchokshi83@gmail.com &nbsp;|&nbsp; 🌐 Open to Relocation</i>
+  <i>📍 Gujarat, India &nbsp;|&nbsp; 📧 dhwanitchokshi83@gmail.com &nbsp;|&nbsp; 🌐 Open to Relocation</i>
 </p>
