@@ -22,7 +22,7 @@
 ```python
 dhwanit = {
     "role"       : "Aspiring AI Engineer & Data Scientist",
-    "location"   : "Ahmedabad, Gujarat, India 🇮🇳  (Open to Relocation)",
+    "location"   : "Gujarat, India 🇮🇳  (Open to Relocation)",
     "focus"      : ["Generative AI", "LLM Apps", "RAG Systems", "Predictive Modeling"],
     "currently"  : "Building end-to-end AI solutions with LangChain & HuggingFace",
     "open_to"    : "AI Engineering · Data Science · ML Engineering roles",
