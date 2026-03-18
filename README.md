@@ -26,8 +26,7 @@ dhwanit = {
     "focus"      : ["Generative AI", "LLM Apps", "RAG Systems", "Predictive Modeling"],
     "currently"  : "Building end-to-end AI solutions with LangChain & HuggingFace",
     "open_to"    : "AI Engineering · Data Science · ML Engineering roles",
-    "contact"    : "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="96f2fee1f7f8ffe2f5fef9fde5feffaea5d6f1fbf7fffab8f5f9fb">[email&#160;protected]</a>",
-}
+    }
 ```
 
 > 🎯 *Turning raw data into intelligent systems — from EDA to deployment.*
