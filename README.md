@@ -71,50 +71,27 @@ dhwanit = {
 
 ## 🚀 Featured Projects
 
-### 🤖 [Multi-Document RAG Chatbot](https://github.com/Dhwanit5656)
+### 🤖 [Multi-Document RAG Chatbot](https://github.com/Dhwanit5656/rag-document-chatbot)
 > *LangChain · HuggingFace · Streamlit · FAISS*
 
 A RAG-powered chatbot that answers questions across multiple documents. Implements document chunking, vector embeddings, and contextual retrieval for accurate, grounded responses.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rag-document-chatbot-rxhqwn6rekworblv74spas.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656/rag-document-chatbot)
 
 ---
 
-### 📄 [AI Resume Analyzer](https://github.com/Dhwanit5656)
+### 📄 [AI Resume Analyzer](https://github.com/Dhwanit5656/AI-Resume-Analyzer/tree/master)
 > *LangChain · HuggingFace · Streamlit*
 
 AI-powered resume analyzer that compares resumes against job descriptions, generates an ATS match score, and performs LLM-based skill gap analysis.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-demo-link)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
-
----
-
-### 📉 [Telecom Customer Churn Prediction](https://github.com/Dhwanit5656)
-> *Python · Scikit-learn · SMOTE · XGBoost*
-
-Churn prediction model achieving **91% accuracy** and **0.9038 ROC-AUC**. Applied SMOTE to handle class imbalance and extensive feature engineering on real telecom data.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
-
----
-
-### 🌾 [Rice Leaf Disease Prediction](https://github.com/Dhwanit5656)
-> *TensorFlow · Keras · OpenCV · CNN · Transfer Learning*
-
-Image classification pipeline for rice leaf disease detection achieving **98.33% accuracy** using CNN with Data Augmentation and Transfer Learning.
-
-[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ai-resume-analyzer-hxwxnvruuutghprmypvurz.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656/AI-Resume-Analyzer/tree/master)
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhwanit5656&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhwanit5656&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwanit5656&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
