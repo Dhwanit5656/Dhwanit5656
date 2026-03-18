@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Dhwanit5656" target="_blank">
+  <a href="https://www.linkedin.com/in/dhwanit-chokshi-81444b271/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Dhwanit5656" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#cca8a4bbada2a5b8afa4a3a7bfa4a5f4ff8caba1ada5a0e2afa3a1">
+  <a href="mailto:dhwanitchokshi83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Dhwanit5656&style=for-the-badge&color=00B4D8" />
@@ -119,4 +119,9 @@ AI-powered resume analyzer that compares resumes against job descriptions, gener
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Open+to+AI+Engineering+%7C+Data+Science+%7C+ML+roles;Let's+build+something+intelligent+toget
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Open+to+AI+Engineering+%7C+Data+Science+%7C+ML+roles;Let's+build+something+intelligent+together!" alt="Footer Typing SVG" />
+</p>
+
+<p align="center">
+  <i>📍 Ahmedabad, India &nbsp;|&nbsp; 📧 dhwanitchokshi83@gmail.com &nbsp;|&nbsp; 🌐 Open to Relocation</i>
+</p>
