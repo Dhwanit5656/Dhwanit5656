@@ -1,16 +1,145 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhwanit+Chokshi+%F0%9F%91%8B;AI+Engineer+%7C+Data+Scientist;Building+Intelligent+AI+Systems" alt="Typing SVG" />
+</h1>
 
-<!--
-**Dhwanit5656/Dhwanit5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/Dhwanit5656" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Dhwanit5656" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="/cdn-cgi/l/email-protection#cca8a4bbada2a5b8afa4a3a7bfa4a5f4ff8caba1ada5a0e2afa3a1">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Dhwanit5656&style=for-the-badge&color=00B4D8" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+```python
+dhwanit = {
+    "role"       : "Aspiring AI Engineer & Data Scientist",
+    "location"   : "Ahmedabad, Gujarat, India 🇮🇳  (Open to Relocation)",
+    "focus"      : ["Generative AI", "LLM Apps", "RAG Systems", "Predictive Modeling"],
+    "currently"  : "Building end-to-end AI solutions with LangChain & HuggingFace",
+    "open_to"    : "AI Engineering · Data Science · ML Engineering roles",
+    "contact"    : "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="96f2fee1f7f8ffe2f5fef9fde5feffaea5d6f1fbf7fffab8f5f9fb">[email&#160;protected]</a>",
+}
+```
+
+> 🎯 *Turning raw data into intelligent systems — from EDA to deployment.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Llama2](https://img.shields.io/badge/Llama2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### 🧮 ML / DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### 📊 Data & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🗄️ Vector Databases
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [Multi-Document RAG Chatbot](https://github.com/Dhwanit5656)
+> *LangChain · HuggingFace · Streamlit · FAISS*
+
+A RAG-powered chatbot that answers questions across multiple documents. Implements document chunking, vector embeddings, and contextual retrieval for accurate, grounded responses.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-demo-link)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+
+---
+
+### 📄 [AI Resume Analyzer](https://github.com/Dhwanit5656)
+> *LangChain · HuggingFace · Streamlit*
+
+AI-powered resume analyzer that compares resumes against job descriptions, generates an ATS match score, and performs LLM-based skill gap analysis.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://your-demo-link)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+
+---
+
+### 📉 [Telecom Customer Churn Prediction](https://github.com/Dhwanit5656)
+> *Python · Scikit-learn · SMOTE · XGBoost*
+
+Churn prediction model achieving **91% accuracy** and **0.9038 ROC-AUC**. Applied SMOTE to handle class imbalance and extensive feature engineering on real telecom data.
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+
+---
+
+### 🌾 [Rice Leaf Disease Prediction](https://github.com/Dhwanit5656)
+> *TensorFlow · Keras · OpenCV · CNN · Transfer Learning*
+
+Image classification pipeline for rice leaf disease detection achieving **98.33% accuracy** using CNN with Data Augmentation and Transfer Learning.
+
+[![GitHub](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhwanit5656)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhwanit5656&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhwanit5656&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhwanit5656&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🎓 Certified Data Scientist (Professional) | Datamites | 2025 |
+| 🎓 B.Tech in Computer Science & Design | A.D Patel Institute of Technology, CVM University | 2025 |
+
+---
+
+## 💼 Experience
+
+**Data Science Intern** — *Rubixe (AI Solutions)*  `May 2025 – Nov 2025`  
+→ EDA & feature engineering on real-world datasets · Streamlined ML workflows from preprocessing to evaluation
+
+**Data Science Intern** — *Tech Elecon* `Jan 2025 – Apr 2025`  
+→ Built disease prediction system using Random Forest + FastAPI · Improved prediction reliability to **80% similarity** using fuzzy matching
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Open+to+AI+Engineering+%7C+Data+Science+%7C+ML+roles;Let's+build+something+intelligent+toget
