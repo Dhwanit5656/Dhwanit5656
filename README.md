@@ -9,9 +9,13 @@
   <a href="https://github.com/Dhwanit5656" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://dhwanit-chokshi-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
   <a href="mailto:dhwanitchokshi83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
- </p>
+  </a>
+</p>
 
 ---
 
@@ -23,6 +27,7 @@ dhwanit = {
     "location"   : "Gujarat, India 🇮🇳  (Open to Relocation)",
     "focus"      : ["Generative AI", "LLM Apps", "RAG Systems", "Predictive Modeling"],
     "currently"  : "Building end-to-end AI solutions with LangChain & HuggingFace",
+    "portfolio"  : "https://dhwanit-chokshi-portfolio.netlify.app/",
     "open_to"    : "AI Engineering · Data Science · ML Engineering roles"
     }
 ```
@@ -120,5 +125,5 @@ AI-powered resume analyzer that compares resumes against job descriptions, gener
 </p>
 
 <p align="center">
-  <i>📍 Gujarat, India &nbsp;|&nbsp; 📧 dhwanitchokshi83@gmail.com &nbsp;|&nbsp; 🌐 Open to Relocation</i>
+  <i>📍 Gujarat, India &nbsp;|&nbsp; 📧 dhwanitchokshi83@gmail.com &nbsp;|&nbsp; 🌐 <a href="https://dhwanit-chokshi-portfolio.netlify.app/">Portfolio</a> &nbsp;|&nbsp; Open to Relocation</i>
 </p>
