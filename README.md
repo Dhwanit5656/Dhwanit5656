@@ -25,7 +25,7 @@ dhwanit = {
     "location"   : "Gujarat, India 🇮🇳  (Open to Relocation)",
     "focus"      : ["Generative AI", "LLM Apps", "RAG Systems", "Predictive Modeling"],
     "currently"  : "Building end-to-end AI solutions with LangChain & HuggingFace",
-    "open_to"    : "AI Engineering · Data Science · ML Engineering roles",
+    "open_to"    : "AI Engineering · Data Science · ML Engineering roles"
     }
 ```
 
